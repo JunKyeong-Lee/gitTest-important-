@@ -13,3 +13,7 @@
 가지고 올때는
 이미 url을 알려줬으니깐.
 git pull 만 하면 됨
+
+또한 git push 할때도 이미 url을 알려줬으니깐 그냥
+git push 만 하면 된다.
+[물론 git add . 와 git commit -m "메시지" 도 해야겠지만]
