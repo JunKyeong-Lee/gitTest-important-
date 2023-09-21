@@ -4,5 +4,7 @@
 
 1. git init
 2. git add .
-3. git commit -m "커밋이름[닉네임]"
-4. git push
+3. git commit -m "커밋설명"
+4. git branch -M main
+5. git remote add origin "깃허브 url"
+6. git push -u origin main
